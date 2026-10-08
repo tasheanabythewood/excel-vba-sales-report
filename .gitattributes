@@ -1,0 +1,8 @@
+# VBA modules must keep Windows line endings or the VBA editor can't re-import them
+*.bas text eol=crlf
+
+# Binary files
+*.xlsm binary
+*.pdf binary
+*.png binary
+*.mp4 binary

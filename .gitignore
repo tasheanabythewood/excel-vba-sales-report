@@ -1,0 +1,8 @@
+# Excel lock files (created while a workbook is open)
+~$*
+
+# Pre-macro draft of the workbook
+SalesReport.xlsx
+
+# Demo video: too large to commit uncompressed (re-export at 720p before adding)
+docs/demo.mp4
